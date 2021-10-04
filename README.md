@@ -1,4 +1,4 @@
- am currently in the final stages of attaining my Ph.D. in Bioinformatics at the University
+I am currently in the final stages of attaining my Ph.D. in Bioinformatics at the University
 of Guelph.  My current work focuses on clustering and how the input data interacts with the chosen hierarchical clustering algorithm.
 
 I have previously assisted in module development as part of an automatic salmonella scheme pipeline.
